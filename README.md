@@ -55,6 +55,7 @@ cd machine-learning-algorithms
 ### Prerequisites
 Make sure you have Python and Jupyter Notebook installed. You can install the required Python packages using:
 pip install -r requirements.txt
+```
 
 ## 📊 Datasets
 Each algorithm folder contains a datasets directory where you will find datasets used in the examples. Feel free to use your own datasets as well!
