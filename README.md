@@ -44,19 +44,6 @@ Here are some of the algorithms you'll find in this repository:
 - **Deep Q-Networks (DQN)**
 - **Policy Gradients**
 
-## 🚀 Getting Started
-
-To get started with this repository, clone it to your local machine:
-
-```bash
-git clone https://github.com/yourusername/machine-learning-algorithms.git
-cd machine-learning-algorithms
-
-### Prerequisites
-Make sure you have Python and Jupyter Notebook installed. You can install the required Python packages using:
-pip install -r requirements.txt
-```
-
 ## 📊 Datasets
 Each algorithm folder contains a datasets directory where you will find datasets used in the examples. Feel free to use your own datasets as well!
 
@@ -67,4 +54,16 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 Thanks to the amazing community of data scientists and developers who have provided valuable feedback and contributions to improve this repository!
 
 ## 📫 Contact
-If you have any questions or feedback, feel free to reach out to me via email@example.com or connect with me on LinkedIn.
+If you have any questions or feedback, feel free to reach out to me via ghulerushi2103@gmail.com or connect with me on LinkedIn.
+
+## 🚀 Getting Started
+To get started with this repository, clone it to your local machine:
+
+```bash
+git clone https://github.com/yourusername/machine-learning-algorithms.git
+cd machine-learning-algorithms
+
+### Prerequisites
+Make sure you have Python and Jupyter Notebook installed. You can install the required Python packages using:
+pip install -r requirements.txt
+```
